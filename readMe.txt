@@ -37,3 +37,5 @@
     "serve": "concurrently \"npx tsc -w\" \"nodemon dist/server.js\""
  }
 6. (Optional) For multiplatform install this -> npm install rimraf for rm -rf
+
+7. Will update soon
